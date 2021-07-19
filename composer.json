@@ -1,0 +1,15 @@
+{
+    "name": "cyh/arr_set-for-laravel",
+    "autoload": {
+        "psr-4": {
+            "Cyh\\ArrSet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anyuah",
+            "email": "809355897@qq.com"
+        }
+    ],
+    "require": {}
+}
