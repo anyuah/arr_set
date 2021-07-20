@@ -5,6 +5,7 @@
             "Cyh\\ArrSet\\": "src/"
         }
     },
+     "license": "MIT",
     "authors": [
         {
             "name": "anyuah",
